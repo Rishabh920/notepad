@@ -1,3 +1,4 @@
+from tkinter import *
 def newFile():
     global file
     root.title("Untitled - Notepad")
